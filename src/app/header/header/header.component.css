@@ -1,0 +1,41 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  mat-toolbar
+  {
+    background-color: white;
+  }
+  .name
+  {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 32px;
+        letter-spacing: 0.1px;
+        color: #252B42;
+        margin-left: 90px;
+        margin-right:40px;
+  }
+
+ul
+{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 10px;
+        gap: 21px;
+
+}
+li {
+    float: left;
+    margin: 0 5px;
+    list-style-type: none;
+    padding-top: 18px ;
+    font-weight:200;
+    color:#737373;
+    font-size:14px;
+    font-family:'Montserrat';
+
+  }
+  

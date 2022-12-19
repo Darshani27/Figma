@@ -1,0 +1,66 @@
+.name
+  {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 24px;
+        letter-spacing: 0.1px;
+        color: #96BB7C;
+        margin-left: 65px;
+        margin-right:40px;
+  }
+  h4{
+ font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+letter-spacing: 0.7px;
+color: #737373;
+  }
+.card1-img
+{
+    height:72px; width: 72px;
+
+}
+  .card-img{
+
+  height: 532px;
+width: 628px;
+left: 732px;
+top: 70px;
+border-radius: 0px;
+
+position: absolute;
+left: 50.83%;
+right: 5.56%;
+top: 9.25%;
+bottom: -5.94%;
+  }
+  .card-heading
+  {
+    margin-top:70px;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 32px;
+color:#252B42;
+  }
+  .card1-heading
+  {
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+letter-spacing: 0.2px;
+color: #737373;
+  }
+  .v1{
+
+        border-left: 6px solid green;
+        border-width: 500px;
+    
+  }
