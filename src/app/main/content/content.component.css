@@ -64,3 +64,48 @@ color: #737373;
         border-width: 500px;
     
   }
+  .card-img3
+  {
+    height:250px;
+    width:250px;
+    margin-left: 60px;
+    margin-top:70px;
+  }
+  .card-img4
+  {
+    height:250px;
+    margin-top: 70px;
+  }
+  h6{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 0.2px;
+  }
+  .image-circle
+  {
+    width: 128px;
+height: 128px;
+border-radius: 200px;
+margin-top:90px;
+margin-left:50px;
+  }
+  .card3-heading
+  {
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+
+text-align: center;
+letter-spacing: 0.2px;
+
+color: #737373;
+width: 320px;
+height: 60px;
+padding:none;
+  }
+ 
