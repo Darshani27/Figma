@@ -108,4 +108,55 @@ width: 320px;
 height: 60px;
 padding:none;
   }
- 
+  .h6-heading
+  {
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+text-align: center;
+letter-spacing: 0.2px;
+color: #96BB7C;
+
+  }
+  .h3-heading
+  {
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 32px;
+text-align: center;
+letter-spacing: 0.1px;
+color: #252B42;
+  }
+  .para
+  {
+    /* paragraph */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+text-align: center;
+letter-spacing: 0.2px;
+color: #737373;
+  }
+ .container1
+ {
+  width: 1120px;
+    height: 500px;
+    background: #FFF2F3;
+    flex: none;
+    order: 5;
+    flex-grow: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ input{
+  width: 300px;
+  height: 35px;
+ }
